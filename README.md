@@ -5,7 +5,7 @@
 -Graphic Design
 -Game Design
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ & Javascript
 
 
 <!---
