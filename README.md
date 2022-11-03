@@ -5,7 +5,7 @@
 -Graphic Design
 -Game Design
 
-- 🌱 I’m currently learning C++ & Javascript
+- 🌱 I’m currently exploring Cybersecurity & Networking
 
 
 <!---
