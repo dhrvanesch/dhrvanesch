@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Robin @MrTraxion
+- 👋 Hi, I’m Robin
 - 👀 I’m interested in 
 -Programming
--3D modelling
--Graphic Design
 -Game Design
 
 - 🌱 I’m currently exploring Cybersecurity & Networking
