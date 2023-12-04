@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Robin
-- 👀 I’m interested in 
+👋 Hi, I’m Robin, I’m interested in 
 * Programming
 * DevOps
 * Cybersecurity
