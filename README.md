@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Robin
 - 👀 I’m interested in 
 -Programming
--Game Design
-
-- 🌱 I’m currently exploring Cybersecurity & Networking
-
+-DevOps
+-Cybersecurity
 
 <!---
 MrTraxion/MrTraxion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
